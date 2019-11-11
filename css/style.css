@@ -20,19 +20,19 @@ body {
     background-repeat: no-repeat;
 }
 .balloon-red {
-    background-image: url('/images/balloon-red.png');
+    background-image: url('.../images/balloon-red.png');
 }
 .balloon-green {
-    background-image: url('/images/balloon-green.png');
+    background-image: url('.../images/balloon-green.png');
 }
 .balloon-yellow {
-    background-image: url('/images/balloon-yellow.png');
+    background-image: url('.../images/balloon-yellow.png');
 }
 .balloon-violet {
-    background-image: url('/images/balloon-fiolet.png');
+    background-image: url('.../images/balloon-fiolet.png');
 }
 .balloon-blue {
-    background-image: url('/images/balloon-blue.png');
+    background-image: url('.../images/balloon-blue.png');
 }
 .total-shadow {
     width: 100vw;
